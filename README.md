@@ -1,14 +1,14 @@
-## Hi :wave_tone1: I am credmp
+## Hi👋 I am credmp
 
 I am a lecturer at <a href="https://www.github.com/hogeschoolnovi">NOVI Hogeschool</a>. I focus on Cyber Security, but have been a very active developer as well.
 
 ### Active Projects
 
--:nl: Advent of CTF: a CTF built for December 2020. 
+-🇳🇱 Advent of CTF: a CTF built for December 2020. 
 
 ### Things I focus on:
 
-- :notebook-with-decorative-cover: GNU Emacs packages
+-📔 GNU Emacs packages
 
 ### Socials
 
