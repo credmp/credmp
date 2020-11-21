@@ -1,4 +1,4 @@
-## Hi:wave_tone1: I am credmp
+## Hi :wave_tone1: I am credmp
 
 I am a lecturer at <a href="https://www.github.com/hogeschoolnovi">NOVI Hogeschool</a>. I focus on Cyber Security, but have been a very active developer as well.
 
