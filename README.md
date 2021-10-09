@@ -6,12 +6,14 @@ I am a lecturer at <a href="https://www.github.com/hogeschoolnovi">NOVI Hogescho
 
 ### Active Projects
 
+- [hed](https://github.com/credmp/hed) - a host file editor written in Rust.
 -🇳🇱 Advent of CTF: a CTF built for December 2020. 
 
 ### Things I focus on:
 
 -📔 GNU Emacs packages
-
+- Helpful tools for hackers
+- 
 ### Activity
 
 ---
@@ -20,7 +22,7 @@ I am a lecturer at <a href="https://www.github.com/hogeschoolnovi">NOVI Hogescho
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=credmp&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=credmp&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=credmp&hide=css,java,html,php&theme=tokyonight">
 </p>
 </details>
 ---
