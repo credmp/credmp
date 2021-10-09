@@ -7,11 +7,11 @@ I am a lecturer at <a href="https://www.github.com/hogeschoolnovi">NOVI Hogescho
 ### Active Projects
 
 - [hed](https://github.com/credmp/hed) - a host file editor written in Rust.
--🇳🇱 Advent of CTF: a CTF built for December 2020. 
+- 🇳🇱 Advent of CTF: a CTF built for December 2020. 
 
 ### Things I focus on:
 
--📔 GNU Emacs packages
+- 📔 GNU Emacs packages
 - Helpful tools for hackers
 - 
 ### Activity
